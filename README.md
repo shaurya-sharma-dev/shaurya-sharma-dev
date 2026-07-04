@@ -16,8 +16,6 @@
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-This README uses badges provided by [inttter/md-badges](https://github.com/inttter/md-badges), with the exception of the SQL badge which uses an icon from [Bootstrap Icons](https://icons.getbootstrap.com/icons/database-fill/). All badges use [shields.io](https://shields.io/).
-
 ## Links
 
 Click [here](https://shaurya-sharma-dev.github.io/) for my personal website!
@@ -49,3 +47,6 @@ You can play the game right now by clicking [here](https://shaurya-sharma-dev.gi
 A driving game made in Ursina that challenges the player to navigate through a series of challenging levels. The game features obstacles, custom camera movement, a pause menu, etc. It relies heavily on custom-textured Blockbench models for the player, the levels, and even some of the obstacles!
 
 You can view the repository by clicking [here](https://github.com/shaurya-sharma-dev/driver-dilemma).
+
+## Attribution
+This README uses badges provided by [inttter/md-badges](https://github.com/inttter/md-badges), with the exception of the SQL badge which uses an icon from [Bootstrap Icons](https://icons.getbootstrap.com/icons/database-fill/). All badges use [shields.io](https://shields.io/).
