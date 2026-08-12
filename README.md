@@ -2,6 +2,10 @@
 
 [![My Stats](https://raw.githubusercontent.com/shaurya-sharma-dev/shaurya-sharma-dev/refs/heads/main/profile/stats.svg)](#)
 
+[![My Top Languages](https://raw.githubusercontent.com/shaurya-sharma-dev/shaurya-sharma-dev/refs/heads/main/profile/top-langs.svg)](#)
+
+Note: My top languages does not correlate with skill level for each. It simply refers to the amount of code I have uploaded for each language to GitHub. There are also other languages that I use that are not included because I do not have any repositories on GitHub that use them.
+
 ## Tech Stack
 
 ### Languages
