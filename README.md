@@ -1,5 +1,7 @@
 # Hi, I'm Shaurya Sharma!
 
+[![My Stats](https://raw.githubusercontent.com/shaurya-sharma-dev/shaurya-sharma-dev/refs/heads/main/profile/stats.svg)](#)
+
 ## Tech Stack
 
 ### Languages
@@ -51,3 +53,5 @@ You can view the repository by clicking [here](https://github.com/shaurya-sharma
 
 ## Attribution
 This README uses badges provided by [inttter/md-badges](https://github.com/inttter/md-badges), with the exception of the SQL badge which uses an icon from [Bootstrap Icons](https://icons.getbootstrap.com/icons/database-fill/). All badges use [shields.io](https://shields.io/).
+
+This README also uses a stats card generated using [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action/), which is licensed under the MIT license.
