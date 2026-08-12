@@ -25,35 +25,20 @@ Note: My top languages does not correlate with skill level for each. It simply r
 
 ## Links
 
-Click [here](https://shaurya-sharma-dev.github.io/) for my personal website!
+Click [here](https://shaurya-sharma-dev.github.io/) for my personal website, where you can view all of my projects!
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shauryasharma_)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/user/shaurya-sharma-dev/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/shaurya-sharma-dev)
 
-## Projects
+## Check out pygame-topdownengine!
 
-### pygame-topdownengine
-<img src="pygame-topdownengine.png" width=200 alt="pygame-topdownengine"><br>
+[<img src="https://raw.githubusercontent.com/shaurya-sharma-dev/shaurya-sharma-dev/refs/heads/main/profile/pin-pygame-topdownengine.svg" alt="pygame-topdownengine repository card">](https://github.com/shaurya-sharma-dev/pygame-topdownengine)
+[<img src="pygame-topdownengine.png" width=200 alt="pygame-topdownengine demo image">](https://github.com/shaurya-sharma-dev/pygame-topdownengine)<br>
+
 pygame-topdownengine is a 2.5D engine for top-down games. It is designed to be highly modular, with most core systems being located in the easily extendible GameObject class. It is built on top of the pygame-ce package, which you can find [here](https://github.com/pygame-community/pygame-ce/tree/main).
 
 You can access the repository for pygame-topdownengine [here](https://github.com/shaurya-sharma-dev/pygame-topdownengine).
-
-### Scout of Liberty
-<img src="scout-of-liberty.png" width=200 alt="Scout of Liberty"><br>
-Scout of Liberty is a 2D retro-style platformer game made in pygame-ce inspired by the American Revolution. It is set in the 1770s during the American Revolution. The player is a fictional scout for the Sons of Liberty. You can play a web version right now that features mobile support by clicking [here](https://shaurya-sharma-dev.github.io/scout-of-liberty/).
-
-### Pixel Patcher
-<img src="pixel-patcher.png" width=200 alt="Pixel Patcher"><br>
-Race against the clock to patch bugs in your upcoming game in this action-packed platformer! The catch? The game's so broken you have to exploit those bugs to navigate through levels.
-
-You can play the game right now by clicking [here](https://shaurya-sharma-dev.github.io/pixel-patcher/).
-
-### Driver Dilemma
-<img src="driver-dilemma.png" width=200 alt="Driver Dilemma"><br>
-A driving game made in Ursina that challenges the player to navigate through a series of challenging levels. The game features obstacles, custom camera movement, a pause menu, etc. It relies heavily on custom-textured Blockbench models for the player, the levels, and even some of the obstacles!
-
-You can view the repository by clicking [here](https://github.com/shaurya-sharma-dev/driver-dilemma).
 
 ## Attribution
 This README uses badges provided by [inttter/md-badges](https://github.com/inttter/md-badges) (licensed under MIT), with the exception of the SQL badge which uses an icon from [Bootstrap Icons](https://icons.getbootstrap.com/icons/database-fill/) (also licensed under MIT). All badges use [shields.io](https://shields.io/).
