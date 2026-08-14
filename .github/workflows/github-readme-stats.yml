@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/github-readme-stats.yml"
 
 jobs:
   build:
@@ -19,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia&rank_icon=percentile
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
