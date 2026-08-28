@@ -9,19 +9,19 @@ Note: My top languages does not correlate with skill level for each. It simply r
 ## Tech Stack
 
 ### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]()
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]()
-[![SQL](https://img.shields.io/badge/SQL-blue.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktZGF0YWJhc2UtZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMy45MDQgMS43NzdDNC45NzggMS4yODkgNi40MjcgMSA4IDFzMy4wMjIuMjg5IDQuMDk2Ljc3N0MxMy4xMjUgMi4yNDUgMTQgMi45OTMgMTQgNHMtLjg3NSAxLjc1NS0xLjkwNCAyLjIyM0MxMS4wMjIgNi43MTEgOS41NzMgNyA4IDdzLTMuMDIyLS4yODktNC4wOTYtLjc3N0MyLjg3NSA1Ljc1NSAyIDUuMDA3IDIgNHMuODc1LTEuNzU1IDEuOTA0LTIuMjIzIi8+CiAgPHBhdGggZD0iTTIgNi4xNjFWN2MwIDEuMDA3Ljg3NSAxLjc1NSAxLjkwNCAyLjIyM0M0Ljk3OCA5LjcxIDYuNDI3IDEwIDggMTBzMy4wMjItLjI4OSA0LjA5Ni0uNzc3QzEzLjEyNSA4Ljc1NSAxNCA4LjAwNyAxNCA3di0uODM5Yy0uNDU3LjQzMi0xLjAwNC43NTEtMS40OS45NzJDMTEuMjc4IDcuNjkzIDkuNjgyIDggOCA4cy0zLjI3OC0uMzA3LTQuNTEtLjg2N2MtLjQ4Ni0uMjItMS4wMzMtLjU0LTEuNDktLjk3MiIvPgogIDxwYXRoIGQ9Ik0yIDkuMTYxVjEwYzAgMS4wMDcuODc1IDEuNzU1IDEuOTA0IDIuMjIzQzQuOTc4IDEyLjcxMSA2LjQyNyAxMyA4IDEzczMuMDIyLS4yODkgNC4wOTYtLjc3N0MxMy4xMjUgMTEuNzU1IDE0IDExLjAwNyAxNCAxMHYtLjgzOWMtLjQ1Ny40MzItMS4wMDQuNzUxLTEuNDkuOTcyLTEuMjMyLjU2LTIuODI4Ljg2Ny00LjUxLjg2N3MtMy4yNzgtLjMwNy00LjUxLS44NjdjLS40ODYtLjIyLTEuMDMzLS41NC0xLjQ5LS45NzIiLz4KICA8cGF0aCBkPSJNMiAxMi4xNjFWMTNjMCAxLjAwNy44NzUgMS43NTUgMS45MDQgMi4yMjNDNC45NzggMTUuNzExIDYuNDI3IDE2IDggMTZzMy4wMjItLjI4OSA0LjA5Ni0uNzc3QzEzLjEyNSAxNC43NTUgMTQgMTQuMDA3IDE0IDEzdi0uODM5Yy0uNDU3LjQzMi0xLjAwNC43NTEtMS40OS45NzItMS4yMzIuNTYtMi44MjguODY3LTQuNTEuODY3cy0zLjI3OC0uMzA3LTQuNTEtLjg2N2MtLjQ4Ni0uMjItMS4wMzMtLjU0LTEuNDktLjk3MiIvPgo8L3N2Zz4=)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![SQL](https://img.shields.io/badge/SQL-blue.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktZGF0YWJhc2UtZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMy45MDQgMS43NzdDNC45NzggMS4yODkgNi40MjcgMSA4IDFzMy4wMjIuMjg5IDQuMDk2Ljc3N0MxMy4xMjUgMi4yNDUgMTQgMi45OTMgMTQgNHMtLjg3NSAxLjc1NS0xLjkwNCAyLjIyM0MxMS4wMjIgNi43MTEgOS41NzMgNyA4IDdzLTMuMDIyLS4yODktNC4wOTYtLjc3N0MyLjg3NSA1Ljc1NSAyIDUuMDA3IDIgNHMuODc1LTEuNzU1IDEuOTA0LTIuMjIzIi8+CiAgPHBhdGggZD0iTTIgNi4xNjFWN2MwIDEuMDA3Ljg3NSAxLjc1NSAxLjkwNCAyLjIyM0M0Ljk3OCA5LjcxIDYuNDI3IDEwIDggMTBzMy4wMjItLjI4OSA0LjA5Ni0uNzc3QzEzLjEyNSA4Ljc1NSAxNCA4LjAwNyAxNCA3di0uODM5Yy0uNDU3LjQzMi0xLjAwNC43NTEtMS40OS45NzJDMTEuMjc4IDcuNjkzIDkuNjgyIDggOCA4cy0zLjI3OC0uMzA3LTQuNTEtLjg2N2MtLjQ4Ni0uMjItMS4wMzMtLjU0LTEuNDktLjk3MiIvPgogIDxwYXRoIGQ9Ik0yIDkuMTYxVjEwYzAgMS4wMDcuODc1IDEuNzU1IDEuOTA0IDIuMjIzQzQuOTc4IDEyLjcxMSA2LjQyNyAxMyA4IDEzczMuMDIyLS4yODkgNC4wOTYtLjc3N0MxMy4xMjUgMTEuNzU1IDE0IDExLjAwNyAxNCAxMHYtLjgzOWMtLjQ1Ny40MzItMS4wMDQuNzUxLTEuNDkuOTcyLTEuMjMyLjU2LTIuODI4Ljg2Ny00LjUxLjg2N3MtMy4yNzgtLjMwNy00LjUxLS44NjdjLS40ODYtLjIyLTEuMDMzLS41NC0xLjQ5LS45NzIiLz4KICA8cGF0aCBkPSJNMiAxMi4xNjFWMTNjMCAxLjAwNy44NzUgMS43NTUgMS45MDQgMi4yMjNDNC45NzggMTUuNzExIDYuNDI3IDE2IDggMTZzMy4wMjItLjI4OSA0LjA5Ni0uNzc3QzEzLjEyNSAxNC43NTUgMTQgMTQuMDA3IDE0IDEzdi0uODM5Yy0uNDU3LjQzMi0xLjAwNC43NTEtMS40OS45NzItMS4yMzIuNTYtMi44MjguODY3LTQuNTEuODY3cy0zLjI3OC0uMzA3LTQuNTEtLjg2N2MtLjQ4Ni0uMjItMS4wMzMtLjU0LTEuNDktLjk3MiIvPgo8L3N2Zz4=)](#)
 
 ### Frameworks
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)]()
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)]()
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 ## Links
 
