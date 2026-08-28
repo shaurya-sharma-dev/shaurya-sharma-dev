@@ -27,9 +27,11 @@ Note: My top languages does not correlate with skill level for each. It simply r
 
 Click [here](https://shaurya-sharma-dev.github.io/) for my personal website, where you can view all of my projects!
 
+Click on any of the below badges to view my corresponding accounts:
+
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/shaurya-sharma-dev)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shauryasharma_)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/user/shaurya-sharma-dev/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/shaurya-sharma-dev)
 
 ## Check out pygame-topdownengine!
 
