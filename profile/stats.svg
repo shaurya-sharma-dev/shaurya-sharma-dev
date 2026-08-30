@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shaurya Sharma&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1092, Total PRs: 10, Total Issues: 8, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1095, Total PRs: 10, Total Issues: 8, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 184.12220576720634;
+        stroke-dashoffset: 184.10540259155437;
       }
     }
   
